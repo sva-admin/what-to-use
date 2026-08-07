@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # what-to-use
 
 Routes a request to the best assets in your own installed stack (skills, subagents, plugins, MCPs, CLIs) and hands back a ready-to-paste prompt that actually makes them fire.
